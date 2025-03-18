@@ -1,0 +1,109 @@
+Stone;stone
+Granite;granite
+Polished Granite;polished_granite
+Diorite;diorite
+Polished Diorite;polished_diorite
+Andesite;andesite
+Polished Andesite;polished_andesite
+Grass Block;grass
+Dirt;dirt
+Coarse Dirt;coarse_dirt
+Podzol;podzol
+Cobblestone;cobblestone
+Oak Planks;oak_planks
+Spruce Planks;spruce_planks
+Birch Planks;birch_planks
+Jungle Planks;jungle_planks
+Acacia Planks;acacia_planks
+Dark Oak Planks;dark_oak_planks
+Crimson Planks;crimson_planks
+Warped Planks;warped_planks
+Mangrove Planks;mangrove_planks
+Sand;sand
+Red Sand;red_sand
+Gravel;gravel
+Water;water
+Lava;lava
+Obsidian;obsidian
+Crying Obsidian;crying_obsidian
+Blackstone;blackstone
+Polished Blackstone;polished_blackstone
+Coal Ore;coal_ore
+Iron Ore;iron_ore
+Gold Ore;gold_ore
+Diamond Ore;diamond_ore
+Emerald Ore;emerald_ore
+Copper Ore;copper_ore
+Nether Quartz Ore;nether_quartz_ore
+Nether Gold Ore;nether_gold_ore
+Gilded Blackstone;gilded_blackstone
+Raw Iron Block;raw_iron_block
+Raw Gold Block;raw_gold_block
+Raw Copper Block;raw_copper_block
+Coal Block;coal_block
+Iron Block;iron_block
+Copper Block;copper_block
+Exposed Copper;exposed_copper
+Weathered Copper;weathered_copper
+Oxidized Copper;oxidized_copper
+Cut Copper;cut_copper
+Exposed Cut Copper;exposed_cut_copper
+Weathered Cut Copper;weathered_cut_copper
+Oxidized Cut Copper;oxidized_cut_copper
+Cut Copper Stairs;cut_copper_stairs
+Exposed Cut Copper Stairs;exposed_cut_copper_stairs
+Weathered Cut Copper Stairs;weathered_cut_copper_stairs
+Oxidized Cut Copper Stairs;oxidized_cut_copper_stairs
+Cut Copper Slab;cut_copper_slab
+Exposed Cut Copper Slab;exposed_cut_copper_slab
+Weathered Cut Copper Slab;weathered_cut_copper_slab
+Oxidized Cut Copper Slab;oxidized_cut_copper_slab
+Waxed Copper Block;waxed_copper_block
+Waxed Exposed Copper;waxed_exposed_copper
+Waxed Weathered Copper;waxed_weathered_copper
+Waxed Oxidized Copper;waxed_oxidized_copper
+Waxed Cut Copper;waxed_cut_copper
+Waxed Exposed Cut Copper;waxed_exposed_cut_copper
+Waxed Weathered Cut Copper;waxed_weathered_cut_copper
+Waxed Oxidized Cut Copper;waxed_oxidized_cut_copper
+Waxed Cut Copper Stairs;waxed_cut_copper_stairs
+Waxed Exposed Cut Copper Stairs;waxed_exposed_cut_copper_stairs
+Waxed Weathered Cut Copper Stairs;waxed_weathered_cut_copper_stairs
+Waxed Oxidized Cut Copper Stairs;waxed_oxidized_cut_copper_stairs
+Waxed Cut Copper Slab;waxed_cut_copper_slab
+Waxed Exposed Cut Copper Slab;waxed_exposed_cut_copper_slab
+Waxed Weathered Cut Copper Slab;waxed_weathered_cut_copper_slab
+Waxed Oxidized Cut Copper Slab;waxed_oxidized_cut_copper_slab
+Mud Bricks;mud_bricks
+Mud Brick Stairs;mud_brick_stairs
+Mud Brick Slab;mud_brick_slab
+Mud Brick Wall;mud_brick_wall
+Mossy Cobblestone;mossy_cobblestone
+Mossy Cobblestone Stairs;mossy_cobblestone_stairs
+Mossy Cobblestone Slab;mossy_cobblestone_slab
+Moss Block;moss_block
+Moss Carpet;moss_carpet
+Sugar Cane;sugar_cane
+Bedrock;bedrock
+Bubble Column;bubble_column
+Magma Block;magma_block
+Sandstone;sandstone
+Chiseled Sandstone;chiseled_sandstone
+Cut Sandstone;cut_sandstone
+Wet Sponge;wet_sponge
+Piston;piston
+Piston Head;piston_head
+Moving Piston;moving_piston
+Dandelion;dandelion
+Poppy;poppy
+Blue Orchid;blue_orchid
+Allium;allium
+Azure Bluet;azure_bluet
+Red Tulip;red_tulip
+Orange Tulip;orange_tulip
+White Tulip;white_tulip
+Pink Tulip;pink_tulip
+Oxeye Daisy;oxeye_daisy
+Cornflower;cornflower
+Lily of the Valley;lily_of_the_valley
+Wither Rose;wither_rose

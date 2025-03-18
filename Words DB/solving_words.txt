@@ -1,0 +1,38 @@
+nPtoham;Phantom
+Dgueb ticSk;Debug Stick
+rayG ooWl;Gray Wool
+onetS lbaS;Stone Slab
+iranB oralC;Brain Coral
+lGod gonIt;Gold Ingot
+ueBl yDe;Blue Dye
+ravgeRa;Ravager
+rBnwo Dey;Brown Dye
+wFoerl otP;Flower Pot
+ntRote lhsFe;Rotten Flesh
+owYell yeD;Yellow Dye
+wonS;Snow
+zuQatr;Quartz
+Stoen veSlho;Stone Shovel
+emDagad nAvil;Damaged Anvil
+ieVn;Vine
+uSetoecrttn;Stonecutter
+Slou nnertaL;Soul Lantern
+nwlSlaob;Snowball
+Ntcho;Notch
+iatbbR eHdi;Rabbit Hide
+kPniupm metS;Pumpkin Stem
+motohS Qtzuar;Smooth Quartz
+onSte Slab;Stone Slab
+Hnro aoClr;Horn Coral
+dparWe giSn;Warped Sign
+olGden oBots;Golden Boots
+tSeew Brereis;Sweet Berries
+erehNt;Nether
+aCpirefm;Campfire
+lBue deB;Blue Bed
+uScper ttnuBo;Spruce Button
+rDit;Dirt
+oklcesnatB;Blackstone
+uprruP Salb;Purpur Slab
+Sntoe dSowr;Stone Sword
+neuglJ ecnFe;Jungle Fence

@@ -1,0 +1,146 @@
+Vines Weeping;Weeping Vines
+Block Snow;Snow Block
+Door Crimson;Crimson Door
+Gray Banner Wall;Gray Wall Banner
+Block Honey;Honey Block
+Concrete Red;Red Concrete
+Door Jungle;Jungle Door
+Boots Diamond;Diamond Boots
+Block Snow;Snow Block
+Block Coral Brain;Brain Coral Block
+Bed Blue;Blue Bed
+Oak Planks Dark;Dark Oak Planks
+Pearl Ender;Ender Pearl
+Iron Armor Horse;Iron Horse Armor
+Torch Soul;Soul Torch
+Wood Birch;Birch Wood
+Log Jungle;Jungle Log
+Head Creeper;Creeper Head
+Black Banner Wall;Black Wall Banner
+Block Gold;Gold Block
+Slab Oak;Oak Slab
+Chicken Cooked;Cooked Chicken
+Slab Andesite;Andesite Slab
+Pickaxe Diamond;Diamond Pickaxe
+Dragon Ender;Ender Dragon
+Slab Cobblestone;Cobblestone Slab
+Tulip Orange;Orange Tulip
+Grass Tall;Tall Grass
+vdkoa;vodka
+katkus;kaktus
+nrukoa;koruna
+ckrbiae;krabice
+cuekta;cuketa
+etroiknkela;elektronika
+akola;koala
+ajokbmn;kombajn
+tfaorigfoe;fotografie
+elspomaka;samolepka
+ekoudnmt;dokument
+bjtuorles;trolejbus
+aivkhsly;hlasivky
+uprrekoodtr;reproduktor
+bilknya;bylinka
+tseareefcdne;defenestrace
+eservr;server
+halva;hlava
+atammektia;matematika
+ksoiprpa;propiska
+aladba;balada
+auomtat;automat
+remekgeatnlot;elektromagnet
+atbmiooul;automobil
+odrzj;zdroj
+azjyk;jazyk
+ieramkka;keramika
+ktumnoia;komunita
+bnluiba;bublina
+doomv;domov
+luice;ulice
+inovny;noviny
+oimbl;mobil
+mniala;malina
+blkajo;jablko
+olhboa;obloha
+uivkadt;viadukt
+ortopsj;postroj
+svolo;slovo
+lsrbtaavia;bratislava
+aaksnsa;sasanka
+hamnieck;mechanik
+podor;odpor
+ksmia;miska
+sbotoa;sobota
+borot;robot
+okpmas;kompas
+arepapt;parapet
+dostihy;dostihy
+uutabos;autobus
+latas;atlas
+mgnao;mango
+limoktvooa;lokomotiva
+aimkrea;amerika
+cdsre;srdce
+ohndiy;hodiny
+ikivttaa;aktivita
+rpvodaa;doprava
+pelozia;izolepa
+imargatka;gramatika
+tinoomr;monitor
+cabeeda;abeceda
+oitpalna;antilopa
+oydskrp;skydrop
+rtecnum;centrum
+mnunysyom;synonymum
+roapvpis;pravopis
+ckaie;akcie
+enrentit;internet
+kinbbula;bublinka
+reegnie;energie
+mteraofa;metafora
+berza;zebra
+idmono;domino
+oiefxonbe;xenofobie
+keohj;hokej
+dvldaio;divadlo
+nhdoiky;hodinky
+rdicane;radnice
+opejrkt;projekt
+kavokta;aktovka
+eperct;recept
+ovbkoj;kovboj
+thrula;truhla
+cfneimart;minecraft
+ihdnoa;hodina
+zifyka;fyzika
+pohylbrea;hyperbola
+feamsor;semafor
+loamukvbza;zvukomalba
+pleko;peklo
+bhcya;chyba
+ientchk;technik
+ekoikomna;ekonomika
+emtro;metro
+atnbrat;trabant
+eknpeyidcloe;encyklopedie
+enlkoo;koleno
+rpaha;praha
+odahja;jahoda
+blogus;globus
+gnemat;magnet
+ctanise;stanice
+totkrar;traktor
+ealertgf;telegraf
+ekliretka;elektrika
+cvahnioe;nohavice
+rostm;strom
+rapolaba;parabola
+mootr;motor
+usanirudos;dinosaurus
+kajnospo;japonsko
+rnvoia;rovina
+hviacle;hlavice
+alvkja;vlajka
+almpa;lampa
+rgielae;alergie
+
